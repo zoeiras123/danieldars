@@ -27,7 +27,7 @@ main {
     max-width: 1000px;
     background-color: gray;
     border-radius: 0px 10px 10px 10px;
-    box-shadow: ;
+    box-shadow: 0px 0px 10px rgb(181, 181, 181) ;
     color: black;
     margin: auto;
     padding: 10px 20px;
